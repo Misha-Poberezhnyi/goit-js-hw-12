@@ -110,3 +110,12 @@ button:hover {
   color: black;
   border-radius: 5px;
 }
+
+.hidden {
+  display: none;
+}
+
+.controls {
+  text-align: center;
+  margin-top: 20px;
+}
